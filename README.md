@@ -1,8 +1,8 @@
-# Transparent_OLED_Digital_Furin_M5cardputer
+# Transparent_OLED_Digital_Furin_M5cardputer_ADV
 A digital wind chime that visualizes the "coolness" of Japanese summer through floating ripples on a transparent OLED display.
 
 
-Transparent OLED Digital Furin 　(Japanese Wind Chime)　M5Cardputer側のファームウェアです。
+Transparent OLED Digital Furin 　(Japanese Wind Chime)　M5CardputerADV側のファームウェアです。
    　　　
 　　　   
 音声WAVの入ってるdataフォルダはPlatformIOのTasksから Platform > Upload Filesystem Image を実行してください。
